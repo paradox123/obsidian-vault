@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "a4e4bc652b3cbc65",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d23ff542a1a61b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc67beea4f6c1c67",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "20250622_194239.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "20250622_194239"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ad3c11e26275ab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe8fa404f544eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6671184d0284deb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ceedf7dd73eb908c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "portainer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1115c567bd29ee46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d9ee28661f13a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d9246e8c04ea6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "061914ca13bd7495",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Privat/Anzeige Loftwohnung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Anzeige Loftwohnung"
+            }
+          },
+          {
+            "id": "dc3c1d8ec5495a95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Privat/Anzeige Loftwohnung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Anzeige Loftwohnung"
+            }
+          },
+          {
+            "id": "f8a12d1dd098fef5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7df2e27130e70f3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Privat/Anzeige Loftwohnung.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Anzeige Loftwohnung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c6671184d0284deb",
+  "lastOpenFiles": [
+    "_shared/shared-ai-docs/README.md",
+    "_shared/shared-ai-docs",
+    "README.md",
+    "_shared",
+    "sparkle/Jahresabschluss 2024 - Übergabe 14.11.2025.md",
+    "sparkle/README.md",
+    "sparkle",
+    "2025-06-12.md",
+    "20250622_194239.jpg",
+    "20250626_160601.jpg",
+    "20250628_123202.jpg",
+    "20250628_123254.jpg",
+    "20250702_130004.jpg",
+    "20250702_130011.jpg",
+    "20250703_092011.jpg",
+    "Pasted image 20250113193930.png",
+    "Pasted image 20250612141439.png",
+    "Pasted image 20250612141524.png",
+    "ToDo.md",
+    "Welcome.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "_Sparkle/Jahresabschluss 2024 - Übergabe 14.11.2025.md",
+    "private/README.md",
+    "private/Untitled.md",
+    "private/Anzeige Loftwohnung.md",
+    "private/Nebenkostenabrechnung 2023/Schäfer.md",
+    "private/Nebenkostenabrechnung 2023/Müller.md",
+    "private/Nebenkostenabrechnung 2023/Kraft Hühne.md",
+    "private/Energetische Sanierung/PV - Enpal.md",
+    "private/Energetische Sanierung/Maße.md",
+    "private/Energetische Sanierung/Allgemein.md",
+    "private/Energetische Sanierung/Förderung/Stadt Schlüchtern.md",
+    "private/Energetische Sanierung/Förderung/Energiebrater.md",
+    "private/Energetische Sanierung/Förderung/Antrag BAFA - Einzelmaßnahmen.md",
+    "private/Energetische Sanierung/Denkmalschutz/Denkmalschutz und steuerliche Vergünstigungen zur Erhaltung oder sinnvollen Nutzung von Baudenkmalen.md",
+    "private/Energetische Sanierung/Denkmalschutz/Antwort zur Auskunft vom 17.06.2025.md",
+    "private/Energetische Sanierung/Fenster/Online Konfiguration.md",
+    "private/Energetische Sanierung/Förderung",
+    "private/Energetische Sanierung/Denkmalschutz",
+    "private/Energetische Sanierung/Fenster",
+    "private/Energetische Sanierung",
+    "private/Nebenkostenabrechnung 2023",
+    "private",
+    "ncg/ncg-docs/docs/Ops/Environments/Development"
+  ]
+}
