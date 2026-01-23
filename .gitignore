@@ -1,0 +1,17 @@
+# Ignoriere alle nested repos
+_shared/
+ncg/
+sparkle/
+private/
+templates/
+
+# Aber tracke Obsidian-Konfiguration
+!.obsidian/
+! .obsidian/workspace.json
+! .obsidian/plugins. json
+
+# Workspace ist persönlich
+. obsidian/workspace
+
+# Caches
+.trash/
