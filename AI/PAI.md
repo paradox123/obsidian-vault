@@ -1,7 +1,0 @@
-
-# ANTHROPIC_API_KEY 
-
-Key: {{ANTHROPIC_API_KEY}}
-
-# Elevenlabs
-Key: {{ELEVENLABS_API_KEY}}

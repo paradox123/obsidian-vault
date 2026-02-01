@@ -11,12 +11,14 @@
             "id": "bc67beea4f6c1c67",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "20250622_194239.jpg"
+                "file": "ncg/ncg-docs/docs/Specs/2026-01-16 Upgrade MariaDb and reset migrations.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "20250622_194239"
+              "icon": "lucide-file",
+              "title": "2026-01-16 Upgrade MariaDb and reset migrations"
             }
           }
         ]
@@ -92,9 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Anzeige Loftwohnung.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "ncg/ncg-docs/docs/Specs/2026-01-16 Upgrade MariaDb and reset migrations.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Anzeige Loftwohnung"
+              "title": "Backlinks for 2026-01-16 Upgrade MariaDb and reset migrations"
             }
           },
           {
@@ -138,18 +140,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privat/Anzeige Loftwohnung.md"
+                "file": "ncg/ncg-docs/docs/Specs/2026-01-16 Upgrade MariaDb and reset migrations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anzeige Loftwohnung"
+              "title": "Outline of 2026-01-16 Upgrade MariaDb and reset migrations"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,16 +167,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6671184d0284deb",
+  "active": "bc67beea4f6c1c67",
   "lastOpenFiles": [
+    "2025-01-17.md",
+    "ncg/ncg-docs/docs/GitLab - Repositories and Structure.md",
+    "ncg/ncg-docs/docs/Specs/2026-01-16 Upgrade MariaDb and reset migrations.md",
+    "ncg/ncg-docs/docs/Security/Security Token Service.md",
+    "ncg/ncg-docs/docs/Ops/README.md",
+    "ncg/ncg-docs/docs/Ops/Troubleshooting/Network-Issues.md",
+    "ncg/ncg-docs/docs/Ops/How to route cloud server over private network using pfSense and Hetzner Cloud Networks.md",
+    "ncg/ncg-docs/docs/Ops/Services/RabbitMQ.md",
+    "ncg/ncg-docs/docs/Ops/Services/GitLab-CI-CD.md",
+    "ncg/ncg-docs/docs/Ops/Services/Frontend-Services.md",
+    "ncg/ncg-docs/docs/Ops/Services/Docker-Registry.md",
+    "ncg/ncg-docs/docs/Ops/Services/Databases.md",
+    "ncg/ncg-docs/docs/Ops/Security/Secrets-Management.md",
+    "ncg/ncg-docs/docs/Ops/Security/Certificates.md",
+    "ncg/ncg-docs/docs/Ops/Infrastructure/Hetzner-Infrastructure.md",
+    "ncg/ncg-docs/docs/Ops/Guides/System-Updates.md",
+    "ncg/ncg-docs/docs/Ops/Guides/Routing-Setup-Guide.md",
+    "ncg/ncg-docs/docs/Ops/Guides/Quick-Start-DevOps.md",
+    "ncg/ncg-docs/docs/Ops/Guides/Quick-Start-Developers.md",
+    "ncg/ncg-docs/docs/Ops/Environments/Development/Dev-Environment.md",
+    "ncg/ncg-docs/docs/Ops/Docker/Docker Secrets Management.md",
     "_shared/shared-ai-docs/README.md",
+    "AI/PAI.md",
     "_shared/shared-ai-docs",
     "README.md",
     "_shared",
     "sparkle/Jahresabschluss 2024 - Übergabe 14.11.2025.md",
     "sparkle/README.md",
     "sparkle",
-    "2025-06-12.md",
     "20250622_194239.jpg",
     "20250626_160601.jpg",
     "20250628_123202.jpg",
@@ -182,28 +208,7 @@
     "Pasted image 20250113193930.png",
     "Pasted image 20250612141439.png",
     "Pasted image 20250612141524.png",
-    "ToDo.md",
-    "Welcome.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Untitled.canvas",
-    "_Sparkle/Jahresabschluss 2024 - Übergabe 14.11.2025.md",
-    "private/README.md",
-    "private/Untitled.md",
-    "private/Anzeige Loftwohnung.md",
-    "private/Nebenkostenabrechnung 2023/Schäfer.md",
-    "private/Nebenkostenabrechnung 2023/Müller.md",
-    "private/Nebenkostenabrechnung 2023/Kraft Hühne.md",
-    "private/Energetische Sanierung/PV - Enpal.md",
-    "private/Energetische Sanierung/Maße.md",
-    "private/Energetische Sanierung/Allgemein.md",
-    "private/Energetische Sanierung/Förderung/Stadt Schlüchtern.md",
-    "private/Energetische Sanierung/Förderung/Energiebrater.md",
-    "private/Energetische Sanierung/Förderung/Antrag BAFA - Einzelmaßnahmen.md",
-    "private/Energetische Sanierung/Denkmalschutz/Denkmalschutz und steuerliche Vergünstigungen zur Erhaltung oder sinnvollen Nutzung von Baudenkmalen.md",
-    "private/Energetische Sanierung/Denkmalschutz/Antwort zur Auskunft vom 17.06.2025.md",
-    "private/Energetische Sanierung/Fenster/Online Konfiguration.md",
     "private/Energetische Sanierung/Förderung",
     "private/Energetische Sanierung/Denkmalschutz",
     "private/Energetische Sanierung/Fenster",
