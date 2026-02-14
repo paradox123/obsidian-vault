@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1d23ff542a1a61b1",
+        "id": "2174d096a6637f92",
         "type": "tabs",
         "children": [
           {
-            "id": "bc67beea4f6c1c67",
+            "id": "fa8848e1ed523d51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ncg/ncg-docs/docs/Specs/2026-01-16 Upgrade MariaDb and reset migrations.md",
-                "mode": "preview",
+                "file": "private/README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-16 Upgrade MariaDb and reset migrations"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ncg/ncg-docs/docs/Specs/2026-01-16 Upgrade MariaDb and reset migrations.md",
+                "file": "private/README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-01-16 Upgrade MariaDb and reset migrations"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ncg/ncg-docs/docs/Specs/2026-01-16 Upgrade MariaDb and reset migrations.md",
+                "file": "private/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-16 Upgrade MariaDb and reset migrations"
+              "title": "Outline of README"
             }
           }
         ],
@@ -167,54 +167,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc67beea4f6c1c67",
+  "active": "fa8848e1ed523d51",
   "lastOpenFiles": [
-    "2025-01-17.md",
-    "ncg/ncg-docs/docs/GitLab - Repositories and Structure.md",
+    "ncg/ncg-docs/docs/Ops/Services/Firewall.md",
+    "private/Energetische Sanierung/00-Dashboard.md",
+    "private/Energetische Sanierung/Fassade/README.md",
+    "private/README.md",
+    "MKK-Förderung.md",
+    "private/Energetische Sanierung/Förderung/README.md",
+    "private/Energetische Sanierung/Förderung/Stadt Schlüchtern.md",
+    "private/Energetische Sanierung/Förderung/Energiebrater.md",
+    "private/Energetische Sanierung/Förderung/documents/Pasted image 20250113193930.png",
+    "private/Energetische Sanierung/Förderung/Antrag BAFA - Einzelmaßnahmen.md",
+    "private/Energetische Sanierung/Fenster/README.md",
+    "private/Energetische Sanierung/Finanzierung/README.md",
+    "private/Energetische Sanierung/PV-Anlage/README.md",
+    "private/Energetische Sanierung/01-Projekt-Info.md",
+    "private/Energetische Sanierung/02-iSFP-Sanierungsfahrplan.md",
+    "private/Energetische Sanierung/05-Kontakte.md",
+    "private/Energetische Sanierung/Allgemein.md",
+    "private/Energetische Sanierung/Maße.md",
+    "private/Energetische Sanierung/Denkmalschutz/Antwort zur Auskunft vom 17.06.2025.md",
+    "private/Energetische Sanierung/Fassade",
+    "private/Energetische Sanierung/PV-Anlage",
+    "private/Energetische Sanierung/Finanzierung",
+    "private/Energetische Sanierung/Denkmalschutz/documents/Skizze Fassade.jpeg",
+    "private/Energetische Sanierung/Denkmalschutz/documents/20250622_195058.jpg",
     "ncg/ncg-docs/docs/Specs/2026-01-16 Upgrade MariaDb and reset migrations.md",
-    "ncg/ncg-docs/docs/Security/Security Token Service.md",
-    "ncg/ncg-docs/docs/Ops/README.md",
-    "ncg/ncg-docs/docs/Ops/Troubleshooting/Network-Issues.md",
-    "ncg/ncg-docs/docs/Ops/How to route cloud server over private network using pfSense and Hetzner Cloud Networks.md",
-    "ncg/ncg-docs/docs/Ops/Services/RabbitMQ.md",
-    "ncg/ncg-docs/docs/Ops/Services/GitLab-CI-CD.md",
-    "ncg/ncg-docs/docs/Ops/Services/Frontend-Services.md",
-    "ncg/ncg-docs/docs/Ops/Services/Docker-Registry.md",
-    "ncg/ncg-docs/docs/Ops/Services/Databases.md",
-    "ncg/ncg-docs/docs/Ops/Security/Secrets-Management.md",
-    "ncg/ncg-docs/docs/Ops/Security/Certificates.md",
-    "ncg/ncg-docs/docs/Ops/Infrastructure/Hetzner-Infrastructure.md",
-    "ncg/ncg-docs/docs/Ops/Guides/System-Updates.md",
-    "ncg/ncg-docs/docs/Ops/Guides/Routing-Setup-Guide.md",
-    "ncg/ncg-docs/docs/Ops/Guides/Quick-Start-DevOps.md",
-    "ncg/ncg-docs/docs/Ops/Guides/Quick-Start-Developers.md",
-    "ncg/ncg-docs/docs/Ops/Environments/Development/Dev-Environment.md",
-    "ncg/ncg-docs/docs/Ops/Docker/Docker Secrets Management.md",
-    "_shared/shared-ai-docs/README.md",
-    "AI/PAI.md",
-    "_shared/shared-ai-docs",
-    "README.md",
-    "_shared",
-    "sparkle/Jahresabschluss 2024 - Übergabe 14.11.2025.md",
-    "sparkle/README.md",
-    "sparkle",
-    "20250622_194239.jpg",
-    "20250626_160601.jpg",
-    "20250628_123202.jpg",
-    "20250628_123254.jpg",
-    "20250702_130004.jpg",
-    "20250702_130011.jpg",
-    "20250703_092011.jpg",
-    "Pasted image 20250113193930.png",
-    "Pasted image 20250612141439.png",
-    "Pasted image 20250612141524.png",
-    "Untitled.canvas",
-    "private/Energetische Sanierung/Förderung",
-    "private/Energetische Sanierung/Denkmalschutz",
-    "private/Energetische Sanierung/Fenster",
-    "private/Energetische Sanierung",
-    "private/Nebenkostenabrechnung 2023",
-    "private",
-    "ncg/ncg-docs/docs/Ops/Environments/Development"
+    "private/Energetische Sanierung/Denkmalschutz/documents/Screenshot 2025-07-03 at 10.48.00.png",
+    "private/Energetische Sanierung/Denkmalschutz/documents/20250702_130011.jpg",
+    "private/Energetische Sanierung/Denkmalschutz/documents/20250628_123254.jpg",
+    "private/Energetische Sanierung/Denkmalschutz/documents/20250622_195720.jpg",
+    "private/Energetische Sanierung/Denkmalschutz/documents/Skizze Fassade.png",
+    "private/Energetische Sanierung/Denkmalschutz/documents/20250628_123202.jpg",
+    "private/Energetische Sanierung/Denkmalschutz/documents/Screenshot 2025-07-03 at 10.51.12.png",
+    "private/Energetische Sanierung/Denkmalschutz/documents",
+    "private/Energetische Sanierung/Förderung/documents",
+    "private/Energetische Sanierung/Fenster/documents",
+    "private/Energetische Sanierung/Fenster/Online Konfiguration.md",
+    "_shared/shared-ai-docs/n8n/workflows/README.md",
+    "_shared/shared-ai-docs/n8n/workflows",
+    "_shared/shared-ai-docs/n8n/data/nodes/package.json",
+    "_shared/shared-ai-docs/n8n/data/nodes",
+    "_shared/shared-ai-docs/n8n/data/database.sqlite-shm",
+    "_shared/shared-ai-docs/n8n/README.md",
+    "_shared/n8n/README.md",
+    "private/Energetische Sanierung/Fenster/Anfrage Angebot.md",
+    "private/Energetische Sanierung/Denkmalschutz/Denkmalschutz und steuerliche Vergünstigungen zur Erhaltung oder sinnvollen Nutzung von Baudenkmalen.md",
+    "2025-01-17.md",
+    "Untitled.canvas"
   ]
 }
