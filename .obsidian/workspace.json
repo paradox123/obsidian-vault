@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "8e19c62f67d1436d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "private/me/applications/2026-02/Daniel-Hecht-Anschreiben-Marketplace-Architect.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Daniel-Hecht-Anschreiben-Marketplace-Architect"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "right": {
     "id": "6d9ee28661f13a79",
@@ -140,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/README.md",
+                "file": "private/me/applications/2026-02/Daniel-Hecht-Anschreiben-Marketplace-Architect.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Daniel-Hecht-Anschreiben-Marketplace-Architect"
             }
           }
         ],
@@ -167,33 +180,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa8848e1ed523d51",
+  "active": "8e19c62f67d1436d",
   "lastOpenFiles": [
-    "ncg/ncg-docs/docs/Ops/Services/Firewall.md",
-    "private/Energetische Sanierung/00-Dashboard.md",
-    "private/Energetische Sanierung/Fassade/README.md",
-    "private/README.md",
-    "MKK-Förderung.md",
-    "private/Energetische Sanierung/Förderung/README.md",
-    "private/Energetische Sanierung/Förderung/Stadt Schlüchtern.md",
-    "private/Energetische Sanierung/Förderung/Energiebrater.md",
+    "private/Energetische Sanierung/Finanzierung/Mietaufstellung.md",
+    "private/Energetische Sanierung/Finanzierung/Modernisierungen-Historie.md",
+    "private/Energetische Sanierung/Finanzierung/Checkliste-Anforderungen.md",
+    "private/me/anschreiben-template.md",
+    "private/me/applications/2026-02/Daniel-Hecht-Anschreiben-Marketplace-Architect.pdf",
+    "private/me/workflows/bewerbungsunterlagen-struktur.md",
+    "private/me/applications/2026-02/Daniel-Hecht-Anschreiben-Marketplace-Architect.md",
+    "private/me/applications/2026-02/Daniel-Hecht-FreelancerMap-Text-API-Engineer-NET.txt",
+    "private/me/applications/2026-02/Daniel-Hecht-FreelancerMap-Text-Marketplace-Architect.txt",
+    "private/me/applications/2026-02/Daniel-Hecht-CV-Marketplace-Architect.pdf",
+    "private/me/applications/2026-02/Daniel-Hecht-CV-Marketplace-Architect.md",
+    "_shared/n8n/data/n8nEventLog-2.log",
+    "_shared/n8n/data/crash.journal",
+    "DanielsVault.sln",
+    "private/me/workflows/n8n-integration-guide.md",
+    "_shared/n8n/scripts/md2pdf",
+    "_shared/n8n/scripts/MarkdownToPdf/publish/libqpdf.dylib",
+    "_shared/n8n/scripts/MarkdownToPdf/publish/libQuestPdfSkia.dylib",
+    "_shared/n8n/scripts/node_modules/form-data/README.md",
+    "_shared/n8n/scripts/node_modules/form-data/CHANGELOG.md",
+    "_shared/n8n/scripts/node_modules/call-bind-apply-helpers/README.md",
+    "_shared/n8n/scripts/node_modules/call-bind-apply-helpers/CHANGELOG.md",
+    "_shared/n8n/scripts/node_modules/es-object-atoms/README.md",
+    "_shared/n8n/scripts/node_modules/es-object-atoms/CHANGELOG.md",
+    "_shared/n8n/scripts/node_modules/get-intrinsic/README.md",
+    "_shared/n8n/scripts/node_modules/get-intrinsic/CHANGELOG.md",
+    "_shared/n8n/scripts/node_modules/es-set-tostringtag/README.md",
+    "_shared/n8n/scripts/node_modules/es-set-tostringtag/CHANGELOG.md",
+    "_shared/n8n/scripts/node_modules/has-tostringtag/README.md",
+    "_shared/n8n/scripts/node_modules/has-tostringtag/CHANGELOG.md",
+    "_shared/n8n/scripts/node_modules/get-proto/README.md",
+    "_shared/n8n/scripts/node_modules/get-proto/CHANGELOG.md",
+    "_shared/n8n/scripts/node_modules/math-intrinsics/README.md",
+    "_shared/n8n/scripts/node_modules/math-intrinsics/CHANGELOG.md",
+    "_shared/n8n/scripts/node_modules/mime-db/README.md",
+    "_shared/n8n/scripts/node_modules/has-symbols/README.md",
     "private/Energetische Sanierung/Förderung/documents/Pasted image 20250113193930.png",
-    "private/Energetische Sanierung/Förderung/Antrag BAFA - Einzelmaßnahmen.md",
-    "private/Energetische Sanierung/Fenster/README.md",
-    "private/Energetische Sanierung/Finanzierung/README.md",
-    "private/Energetische Sanierung/PV-Anlage/README.md",
-    "private/Energetische Sanierung/01-Projekt-Info.md",
-    "private/Energetische Sanierung/02-iSFP-Sanierungsfahrplan.md",
-    "private/Energetische Sanierung/05-Kontakte.md",
-    "private/Energetische Sanierung/Allgemein.md",
-    "private/Energetische Sanierung/Maße.md",
-    "private/Energetische Sanierung/Denkmalschutz/Antwort zur Auskunft vom 17.06.2025.md",
-    "private/Energetische Sanierung/Fassade",
-    "private/Energetische Sanierung/PV-Anlage",
-    "private/Energetische Sanierung/Finanzierung",
     "private/Energetische Sanierung/Denkmalschutz/documents/Skizze Fassade.jpeg",
     "private/Energetische Sanierung/Denkmalschutz/documents/20250622_195058.jpg",
-    "ncg/ncg-docs/docs/Specs/2026-01-16 Upgrade MariaDb and reset migrations.md",
     "private/Energetische Sanierung/Denkmalschutz/documents/Screenshot 2025-07-03 at 10.48.00.png",
     "private/Energetische Sanierung/Denkmalschutz/documents/20250702_130011.jpg",
     "private/Energetische Sanierung/Denkmalschutz/documents/20250628_123254.jpg",
@@ -201,20 +228,6 @@
     "private/Energetische Sanierung/Denkmalschutz/documents/Skizze Fassade.png",
     "private/Energetische Sanierung/Denkmalschutz/documents/20250628_123202.jpg",
     "private/Energetische Sanierung/Denkmalschutz/documents/Screenshot 2025-07-03 at 10.51.12.png",
-    "private/Energetische Sanierung/Denkmalschutz/documents",
-    "private/Energetische Sanierung/Förderung/documents",
-    "private/Energetische Sanierung/Fenster/documents",
-    "private/Energetische Sanierung/Fenster/Online Konfiguration.md",
-    "_shared/shared-ai-docs/n8n/workflows/README.md",
-    "_shared/shared-ai-docs/n8n/workflows",
-    "_shared/shared-ai-docs/n8n/data/nodes/package.json",
-    "_shared/shared-ai-docs/n8n/data/nodes",
-    "_shared/shared-ai-docs/n8n/data/database.sqlite-shm",
-    "_shared/shared-ai-docs/n8n/README.md",
-    "_shared/n8n/README.md",
-    "private/Energetische Sanierung/Fenster/Anfrage Angebot.md",
-    "private/Energetische Sanierung/Denkmalschutz/Denkmalschutz und steuerliche Vergünstigungen zur Erhaltung oder sinnvollen Nutzung von Baudenkmalen.md",
-    "2025-01-17.md",
     "Untitled.canvas"
   ]
 }
