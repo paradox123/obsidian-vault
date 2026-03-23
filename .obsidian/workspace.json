@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/README.md",
+                "file": "private/Portfolio/analysis/depot/V/analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "8e19c62f67d1436d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Portfolio/analysis/weekly-reviews/2026/2026-03-15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-15"
+              "title": "analysis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Portfolio/analysis/weekly-reviews/2026/2026-03-15.md",
+                "file": "private/Portfolio/analysis/depot/V/analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-15"
+              "title": "Outline of analysis"
             }
           }
         ],
@@ -182,44 +167,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e19c62f67d1436d",
+  "active": "fa8848e1ed523d51",
   "lastOpenFiles": [
-    "private/Portfolio/analysis/weekly-reviews/2026/10 Druckbare To-do-Liste (Montag + naechste Woche.md",
+    "private/Portfolio/analysis/depot/AMD/analysis.md",
+    "private/Portfolio/analysis/watchlist/LRN/analysis.md",
+    "private/Portfolio/analysis/watchlist/NBIX/analysis.md",
+    "private/Portfolio/analysis/watchlist/QLYS/analysis.md",
+    "private/Energetische Sanierung/Förderung/Dorfentwicklung-Main-Kinzig-Kreis-Massnahmenbeschreibung-Aussenhuelle.md",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/_pipeline_runs/2024/run.db-journal",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Waldheim/anschreiben_2024.pdf",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Waldheim/anschreiben_2024.typ",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Waldheim/cover_letter_payload_2024.json",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Koenig/anschreiben_2024.pdf",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Koenig/anschreiben_2024.typ",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Koenig/cover_letter_payload_2024.json",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Schaefer/anschreiben_2024.pdf",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Schaefer/anschreiben_2024.typ",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Schaefer/cover_letter_payload_2024.json",
+    "_shared/shared-ai-docs/skills.backup-20260323-111431/retro-plan/workflows/retro-plan.md",
+    "_shared/shared-ai-docs/skills.backup-20260323-111431/refine-plan/workflows/refine-plan.md",
+    "_shared/shared-ai-docs/skills.backup-20260323-111431/retro-plan/SKILL.md",
+    "_shared/shared-ai-docs/skills.backup-20260323-111431/refine-plan/SKILL.md",
+    "_shared/_specs/2026-03-23 Nebenkostenabrechnung Einzelabrechnung Implementierungsplan.md",
+    "_shared/_specs/2026-03-23 Nebenkostenabrechnung Einzelabrechnung.md",
+    "_shared/shared-ai-docs/skills/retro-plan/workflows/retro-plan.md",
+    "_shared/shared-ai-docs/skills/refine-plan/workflows/refine-plan.md",
+    "_shared/shared-ai-docs/docs/doc-workflow.md",
+    "_shared/shared-ai-docs/skills/retro-plan/workflows/RetroPlan.md",
+    "_shared/shared-ai-docs/skills/retro-plan/SKILL.md",
+    "_shared/shared-ai-docs/skills/refine-plan/workflows/RefinePlan.md",
+    "_shared/shared-ai-docs/skills/refine-plan/SKILL.md",
+    "private/README.md",
     "private/Portfolio/analysis/weekly-reviews/2026/2026-03-15.md",
     "private/Energetische Sanierung/Förderung/ELR-Main-Kinzig-Kreis-Massnahmenbeschreibung-Aussenhuelle.md",
+    "private/Portfolio/analysis/weekly-reviews/2026/10 Druckbare To-do-Liste (Montag + naechste Woche.md",
     "private/Portfolio/analysis/depot/NFC/analysis.md",
-    "private/Portfolio/analysis/depot/NFC/reports/nfc-fundamentals-2026-03-11.pdf",
-    "private/Portfolio/analysis/depot/NFC/reports",
-    "private/Portfolio/analysis/depot/NFC",
     "private/Portfolio/analysis/depot/DRH/analysis.md",
-    "private/Portfolio/analysis/depot/DRH/reports/drh-fundamentals-2026-03-09.pdf",
-    "private/Portfolio/analysis/depot/DRH/reports",
-    "private/Portfolio/analysis/depot/DRH",
     "private/Portfolio/analysis/depot/UBER/analysis.md",
-    "private/Portfolio/analysis/depot/UBER/reports/uber-fundamentals-2026-03-09.pdf",
-    "private/Portfolio/analysis/depot/UBER/reports",
-    "private/Portfolio/analysis/depot/UBER",
     "private/Portfolio/analysis/depot/ANET/analysis.md",
-    "private/Portfolio/analysis/depot/ANET/reports/anet-fundamentals-2026-03-10.pdf",
-    "private/Portfolio/analysis/depot/INL/analysis.md",
-    "private/Portfolio/analysis/depot/AMD/analysis.md",
-    "private/Portfolio/analysis/depot/CRWV/analysis.md",
-    "private/Portfolio/analysis/depot/VGWL/analysis.md",
-    "private/Portfolio/analysis/depot/APP/analysis.md",
-    "private/Portfolio/analysis/depot/GOOGL/analysis.md",
-    "private/Portfolio/analysis/depot/V/analysis.md",
-    "private/Portfolio/analysis/depot/ASML/analysis.md",
-    "private/Portfolio/analysis/depot/SIE/analysis.md",
-    "private/Portfolio/analysis/depot/AMZN/analysis.md",
-    "private/Portfolio/analysis/depot/NOW/analysis.md",
-    "private/Portfolio/analysis/depot/SILVER-DERIVATE/analysis.md",
-    "private/Portfolio/analysis/depot/MSFT/analysis.md",
-    "private/Portfolio/analysis/watchlist/TROW/analysis.md",
-    "private/Portfolio/analysis/watchlist/QLYS/analysis.md",
-    "private/Portfolio/analysis/watchlist/NBIX/analysis.md",
-    "private/Portfolio/analysis/watchlist/LRN/analysis.md",
-    "private/Portfolio/analysis/watchlist/LDOS/analysis.md",
-    "private/Portfolio/analysis/watchlist/INTU/analysis.md",
     "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Belege_Nebenkostenabrechnung_2024/20251116_144810.jpg",
     "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Belege_Nebenkostenabrechnung_2024/20251116_144757.jpg",
     "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Belege_Nebenkostenabrechnung_2024/20251116_144741.jpg",
