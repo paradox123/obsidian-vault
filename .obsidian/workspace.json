@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "analysis"
             }
+          },
+          {
+            "id": "6e84fc4246cf5e4f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Portfolio/analysis/depot/V/analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of analysis"
+              "title": "Outline"
             }
           }
         ],
@@ -167,23 +179,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa8848e1ed523d51",
+  "active": "6e84fc4246cf5e4f",
   "lastOpenFiles": [
+    "_shared/_specs/nebenkosten_2025_spec_vs_excel2024_diff.json",
+    "_shared/_specs/nebenkosten_2025_from_spec.json",
+    "_shared/_specs/spec_json_vs_excel2024.py",
+    "_shared/_specs/2026-03-24 Nebenkostenabrechnung Applikation.md",
+    "_shared/_specs/Completed/2026-02-26 JobApplicationSkill.md",
+    "_shared/_specs/Completed/2026-03-03 CheckBuild Skill.md.bak",
+    "_shared/_specs/Completed/2026-03-03 CheckBuild Skill.md",
+    "_shared/_specs/Completed/2026-03-03 CheckBuild Skill.userguide.md",
+    "_shared/_specs/Failed/2026-03-23 Nebenkostenabrechnung Einzelabrechnung Implementierungsplan.md",
+    "_shared/_specs/Failed/2026-03-14 Nebenkostenabrechnung Pipeline.md",
+    "_shared/_specs/Failed/2026-03-23 Nebenkostenabrechnung Einzelabrechnung.md",
+    "_shared/_specs/2026-03-24 Nebenkostenabrechnung Applikation",
+    "_shared/_specs/Failed/2026-03-14 Nebenkostenabrechnung Pipeline.history.md",
+    "_shared/_specs/2026-03-14 Nebenkostenabrechnung Pipeline.md",
+    "_shared/_specs/Failed",
+    "_shared/_specs/Completed/2026-03-14 Nebenkostenabrechnung Pipeline.history.md",
+    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/_pipeline_runs/2024/run.db-journal",
+    "private/Vermietung/nebenkosten_pipeline/nebenkosten_pipeline/cost_entry_normalization.py",
+    "private/Vermietung/nebenkosten_pipeline/nebenkosten_pipeline/templates/statement_template_v2.typ",
     "private/Portfolio/analysis/depot/AMD/analysis.md",
     "private/Portfolio/analysis/watchlist/LRN/analysis.md",
     "private/Portfolio/analysis/watchlist/NBIX/analysis.md",
     "private/Portfolio/analysis/watchlist/QLYS/analysis.md",
     "private/Energetische Sanierung/Förderung/Dorfentwicklung-Main-Kinzig-Kreis-Massnahmenbeschreibung-Aussenhuelle.md",
-    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/_pipeline_runs/2024/run.db-journal",
     "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Waldheim/anschreiben_2024.pdf",
     "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Waldheim/anschreiben_2024.typ",
-    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Waldheim/cover_letter_payload_2024.json",
-    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Koenig/anschreiben_2024.pdf",
-    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Koenig/anschreiben_2024.typ",
-    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Koenig/cover_letter_payload_2024.json",
-    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Schaefer/anschreiben_2024.pdf",
-    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Schaefer/anschreiben_2024.typ",
-    "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Einzelabrechnungen/Schaefer/cover_letter_payload_2024.json",
     "_shared/shared-ai-docs/skills.backup-20260323-111431/retro-plan/workflows/retro-plan.md",
     "_shared/shared-ai-docs/skills.backup-20260323-111431/refine-plan/workflows/refine-plan.md",
     "_shared/shared-ai-docs/skills.backup-20260323-111431/retro-plan/SKILL.md",
@@ -194,17 +217,6 @@
     "_shared/shared-ai-docs/skills/refine-plan/workflows/refine-plan.md",
     "_shared/shared-ai-docs/docs/doc-workflow.md",
     "_shared/shared-ai-docs/skills/retro-plan/workflows/RetroPlan.md",
-    "_shared/shared-ai-docs/skills/retro-plan/SKILL.md",
-    "_shared/shared-ai-docs/skills/refine-plan/workflows/RefinePlan.md",
-    "_shared/shared-ai-docs/skills/refine-plan/SKILL.md",
-    "private/README.md",
-    "private/Portfolio/analysis/weekly-reviews/2026/2026-03-15.md",
-    "private/Energetische Sanierung/Förderung/ELR-Main-Kinzig-Kreis-Massnahmenbeschreibung-Aussenhuelle.md",
-    "private/Portfolio/analysis/weekly-reviews/2026/10 Druckbare To-do-Liste (Montag + naechste Woche.md",
-    "private/Portfolio/analysis/depot/NFC/analysis.md",
-    "private/Portfolio/analysis/depot/DRH/analysis.md",
-    "private/Portfolio/analysis/depot/UBER/analysis.md",
-    "private/Portfolio/analysis/depot/ANET/analysis.md",
     "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Belege_Nebenkostenabrechnung_2024/20251116_144810.jpg",
     "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Belege_Nebenkostenabrechnung_2024/20251116_144757.jpg",
     "private/Vermietung/nebenkosten_pipeline/fixtures/2024/Belege_Nebenkostenabrechnung_2024/20251116_144741.jpg",
