@@ -181,6 +181,8 @@
   },
   "active": "6e84fc4246cf5e4f",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "VAULT_AGENT_STRUCTURE.md",
     "ncg/ncg-docs/docs/Ops/Services/Grafana & Prometheus.md",
     "_shared/shared-ai-docs/_plans/2026-03-25 Nebenkostenabrechnung Applikation Implementierungsplan.md",
     "_shared/shared-ai-docs/_plans",
@@ -225,8 +227,6 @@
     "private/Portfolio/analysis/watchlist/KVYO/analysis.md",
     "private/Portfolio/analysis/watchlist/INTU/analysis.md",
     "private/Portfolio/analysis/watchlist/ADSK/analysis.md",
-    "private/Portfolio/analysis/depot/VGWL/analysis.md",
-    "private/Portfolio/analysis/depot/V/analysis.md",
     "Untitled.canvas"
   ]
 }
