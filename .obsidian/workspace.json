@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2aeff20a305f783b",
+        "id": "7b1fbd6e3a6d1372",
         "type": "tabs",
         "children": [
           {
-            "id": "e6daef154d4c7eff",
+            "id": "b838717e7fb61a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_shared/SpecOps/Entities/specs/danielsvault-rag-ingestion-scope-metadaten-2026-04-21.md",
+                "file": "Projects/NCG/AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "danielsvault-rag-ingestion-scope-metadaten-2026-04-21"
+              "title": "AGENTS"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_shared/SpecOps/Entities/specs/danielsvault-rag-ingestion-scope-metadaten-2026-04-21.md",
+                "file": "ki-fuer-kmu/docs/03-product/survey-v2-final-traceability-matrix.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of danielsvault-rag-ingestion-scope-metadaten-2026-04-21"
+              "title": "Outline of survey-v2-final-traceability-matrix"
             }
           }
         ],
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,53 +173,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6daef154d4c7eff",
+  "active": "c6671184d0284deb",
   "lastOpenFiles": [
-    "ki-fuer-kmu/_specs/child-session-handoffs",
-    "_shared/shared-ai-docs/tmp/docworkflow-dry-run-ki-fuer-kmu/workflow-dry-run-result-2026-05-06-s3-review-feedback.md",
-    "ki-fuer-kmu/_specs/child-session-handoffs/s3-session-handoff.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-dry-run-ki-fuer-kmu/workflow-dry-run-result-2026-05-06-handoff-operationalization.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-dry-run-ki-fuer-kmu/_specs/child-session-handoffs/s3-session-handoff.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-dry-run-ki-fuer-kmu/_specs/child-session-handoffs",
-    "_shared/shared-ai-docs/tmp/docworkflow-dry-run-ki-fuer-kmu/workflow-dry-run-result-2026-05-06-enforcement.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/comparison-summary.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/new-workflow-result.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy/legacy-workflow-result.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-05-free-entry-v2-s7-docker-safe-harness-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-05-free-entry-v2-s6-roi-rag-runtime-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-05-free-entry-v2-s5-survey-v2-content-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-05-free-entry-v2-s4-provider-activation-guides-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-05-free-entry-v2-s3-content-bundle-managed-ai-channel-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-05-free-entry-v2-s2-survey-delivery-answer-handoff-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-05-free-entry-v2-s1-vertical-architecture-spike-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-05-free-entry-v2-s0-repo-freeze-legacy-quarantine-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-05-free-entry-v2-child-specs-index.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs/2026-05-04-free-entry-v2-master-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy/_specs/2026-05-05-free-entry-v2-s7-docker-safe-harness-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy/_specs/2026-05-05-free-entry-v2-s6-roi-rag-runtime-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy/_specs/2026-05-05-free-entry-v2-s5-survey-v2-content-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy/_specs/2026-05-05-free-entry-v2-s4-provider-activation-guides-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy/_specs/2026-05-05-free-entry-v2-s3-content-bundle-managed-ai-channel-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy/_specs/2026-05-05-free-entry-v2-s2-survey-delivery-answer-handoff-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy/_specs/2026-05-05-free-entry-v2-s1-vertical-architecture-spike-spec.md",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new/_specs",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy/_specs",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/new",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu/legacy",
-    "_shared/shared-ai-docs/tmp/docworkflow-comparison-ki-fuer-kmu",
-    "_shared/shared-ai-docs/tmp/docworkflow-dry-run-ki-fuer-kmu/_specs",
-    "_shared/shared-ai-docs/tmp/docworkflow-dry-run-ki-fuer-kmu",
-    "_shared/shared-ai-docs/tmp/ki-fuer-kmu-parallel-work-playbook/openspec/specs/free-entry-v2-s2",
-    "ki-fuer-kmu/_legacy/v1-node-prototype/docs/scan-rechnung.png",
-    "ki-fuer-kmu/07-marketing/flyer-proposals-2026-05-01/output/flyer-proposal-15.png",
-    "ki-fuer-kmu/07-marketing/flyer-proposals-2026-05-01/output/flyer-proposal-13.png",
-    "ki-fuer-kmu/07-marketing/flyer-proposals-2026-05-01/output/flyer-proposal-14.png",
-    "ki-fuer-kmu/07-marketing/flyer-proposals-2026-05-01/assets/illu-1.svg",
-    "ki-fuer-kmu/07-marketing/flyer-proposals-2026-05-01/output/flyer-proposal-12.png",
-    "ki-fuer-kmu/07-marketing/flyer-proposals-2026-05-01/output/flyer-proposal-11.png",
-    "ki-fuer-kmu/07-marketing/flyer-proposals-2026-05-01/output/flyer-proposal-10.png",
-    "ki-fuer-kmu/07-marketing/flyer-proposals-2026-05-01/output/flyer-proposal-09.png",
-    "ki-fuer-kmu/07-marketing/flyer-proposals-2026-05-01/output/flyer-proposal-08.png",
+    "probare-crm/adr/0001-local-persistent-workflow-architecture.md",
+    "probare-crm/adr",
+    "private/docs/mandatradar-mvp-prd.md",
+    "private/docs",
+    "private/me/docs/mandatradar-mvp-prd.md",
+    "private/me/docs",
+    "private/me/fussball/WhatsApp-Spielankündigung-Muster.md",
+    "private/me/fussball/SG-Schluechtern-E1-Maedchen-Spielplan-2026-27.md",
+    "private/me/fussball",
+    "private/tmp/pdfs/spielplan_341466-4.png",
+    "private/tmp/pdfs/spielplan_341466-3.png",
+    "private/tmp/pdfs/spielplan_341466-2.png",
+    "private/tmp/pdfs/spielplan_341466-1.png",
+    "private/tmp/pdfs",
+    "private/tmp",
+    "private/me/workflows/mailapp-tools/verify-mailbox-cleanup-batch.py",
+    "private/me/workflows/mailapp-tools/mailbox-cleanup-batch.py",
+    "private/skills/mailapp-mailbox-cleanup/references/batch-cleanup.md",
+    "private/skills/mailapp-mailbox-cleanup/references",
+    "ncg/ncg-docs/docs/Ops/Services/Tyre24-Proxy.md",
+    "probare-crm/AGENTS.md",
+    "probare-crm/src/ProbareCrm.Infrastructure/obj/ProbareCrm.Infrastructure.csproj.nuget.g.props",
+    "probare-crm/src/ProbareCrm.Web/node_modules/react-dom/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/oxlint/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/lightningcss/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/react/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/@rolldown/pluginutils/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/@oxlint/binding-darwin-arm64/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/@types/react-dom/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/vite/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/vite/LICENSE.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/picomatch/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/typescript/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/typescript/SECURITY.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/@types/node/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/@vitejs/plugin-react/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/@types/react/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/postcss/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/nanoid/README.md",
+    "probare-crm/src/ProbareCrm.Web/node_modules/source-map-js/README.md",
+    "probare-crm/src/ProbareCrm.Web/src/assets/vite.svg",
+    "probare-crm/src/ProbareCrm.Web/src/assets/react.svg",
+    "probare-crm/src/ProbareCrm.Web/src/assets/hero.png",
+    "probare-crm/src/ProbareCrm.Web/public/favicon.svg",
+    "probare-crm/src/ProbareCrm.Web/public/icons.svg",
+    "private/me/tmp/pdfs/homegym-poster-final/rendered/poster-print.jpg",
     "Untitled.canvas"
   ]
 }

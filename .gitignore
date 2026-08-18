@@ -1,9 +1,12 @@
 # Ignoriere alle nested repos
 _shared/
-ncg/
+/ncg/
 sparkle/
-private/
+/private/
 templates/
+ki-fuer-kmu/
+meeting-assistant/
+probare-crm/
 
 # Aber tracke Obsidian-Konfiguration
 !.obsidian/

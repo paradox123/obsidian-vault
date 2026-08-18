@@ -1,6 +1,6 @@
 # DanielsVault - Agent Structure Index
 
-Last updated: 2026-03-25
+Last updated: 2026-07-25
 Scope: /Users/dh/Documents/DanielsVault
 
 ## Purpose
@@ -13,6 +13,8 @@ This file documents the vault structure in a stable, machine-friendly way so AI 
 ## Top-Level Layout
 - DanielsVault.sln
 - _shared/
+- Meetings/
+- Projects/
 - ncg/
 - private/
 - sparkle/
@@ -83,8 +85,36 @@ Important paths:
 - sparkle/README.md
 - sparkle/Jahresabschluss 2024 - Uebergabe 14.11.2025.md
 
+### 5) Meetings/
+Primary role: Meeting Assistant artifacts.
+
+Important paths:
+- Meetings/Transcripts/
+- Meetings/Notes/
+- Meetings/Assistant Context/
+- Meetings/Summaries/
+
+Typical content:
+- raw meeting transcripts
+- user-authored meeting notes
+- meeting-specific assistant memory
+- finalized meeting summaries
+
+### 6) Projects/
+Primary role: Meeting Assistant project bindings and project-specific agent context.
+
+Important paths:
+- Projects/NCG/AGENTS.md
+- Projects/Private/AGENTS.md
+
+Typical content:
+- concise project orientation
+- team and role context
+- source-routing instructions
+- meeting-summary handling rules
+
 ## Agent Navigation Rules
-1. Start from this file, then drill into exactly one domain folder first (_shared, ncg, private, sparkle).
+1. Start from this file, then drill into exactly one source domain first (_shared, ncg, private, sparkle). For Meeting Assistant tasks, start in Meetings/ or Projects/ and then route to one source domain when more context is needed.
 2. Prefer local README.md files for context before reading deep files.
 3. If task is about automations or AI workflows, start in _shared/.
 4. If task is about infra/devops docs, start in ncg/ncg-docs/docs/.
@@ -96,6 +126,8 @@ Important paths:
 - "spec", "requirements", "plan" -> _shared/shared-ai-docs/_specs/ or _shared/shared-ai-docs/_plans/
 - "NCG infra", "Ops", "Security docs" -> ncg/ncg-docs/docs/
 - "Bewerbung", "CV", "Profil", "Vermietung", "Sanierung" -> private/
+- "meeting", "transcript", "assistant context", "summary" -> Meetings/
+- "meeting project", "project binding", "project context" -> Projects/
 
 ## Task-to-Path Matrix
 | Task intent | Start path | Fallback path | Notes |
@@ -109,6 +141,8 @@ Important paths:
 | Property and renovation notes | private/Energetische Sanierung/ | private/Vermietung/ | Avoid mixing with NCG docs |
 | Finance or tenancy documents | private/Vermietung/ | private/Energetische Sanierung/Finanzierung/ | Keep yearly artifacts grouped by year |
 | Small standalone notes | sparkle/ | private/ | Use only for compact, self-contained notes |
+| Inspect meeting artifacts | Meetings/Notes/ | Meetings/Transcripts/, Meetings/Assistant Context/, Meetings/Summaries/ | Match files by timestamp and preserve meeting frontmatter |
+| Maintain Meeting Assistant project context | Projects/ | Relevant source domain (`ncg/ncg-docs` or `private`) | Keep project folders lightweight and link to authoritative docs |
 
 ## Auto-Discovery Notes
 - This file can have any name and still be used by an agent when explicitly referenced.
