@@ -1,6 +1,6 @@
 # DanielsVault - Agent Structure Index
 
-Last updated: 2026-07-25
+Last updated: 2026-08-18
 Scope: /Users/dh/Documents/DanielsVault
 
 ## Purpose
@@ -21,10 +21,13 @@ This file documents the vault structure in a stable, machine-friendly way so AI 
 
 ## Repository Boundaries (Git Roots)
 1. . (vault root)
-2. _shared/shared-ai-docs
-3. ncg/ncg-docs
-4. private
-5. sparkle
+2. _ops/meeting-assistant
+3. _shared/shared-ai-docs
+4. ki-fuer-kmu
+5. ncg/ncg-docs
+6. private
+7. probare-crm
+8. sparkle
 
 Guideline:
 - Treat each git root as its own change boundary.
